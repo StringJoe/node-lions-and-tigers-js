@@ -1,3 +1,12 @@
-# Node.js and Express Hosted on Microsoft Azure Template
-This repository serves as a template that can be used to create a Node.js and Express based website that can easily
-be hosted on Microsoft Azure.
+# dogs-js
+
+This project was done with the help of a tutorial created by
+Brad Schiff. His Youtube channel is called LearnWebCode and the
+tutorial for the dogs website project can be found here: https://www.youtube.com/watch?v=AVmGmLFcukM
+
+## name, project, and email address
+Name: Joseph Santay
+
+Project: Lions and Tigers and Bears, Oh My!
+
+Email: josephasantay@lewisu.edu
